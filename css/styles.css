@@ -16,6 +16,7 @@ body {
   background-color: skyblue; /* Make prettier */
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.2rem;
+  line-height: 1.6rem;
 }
 
 .typer {
@@ -31,4 +32,5 @@ body {
 textarea {
   width: 100%;
   padding: 0.5rem;
+  margin-top: 1rem;
 }
